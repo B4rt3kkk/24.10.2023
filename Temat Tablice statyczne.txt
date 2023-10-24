@@ -1,0 +1,66 @@
+			Lekcja pod tytułem:
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Temat: Tablice statyczne, tablice wielowymiarowe, petla for.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Choinki
+1_zad
+
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+2_zad
+ 
+* * * * *
+* * @ * *
+* * @ * *
+* * * * *
+
+3_zad
+ 
+& * * * &
+* * @ * *
+* * @ * *
+& * * * &
+
+4_zad
+ 
+* * * * *
+* * *
+* * *
+* * * * *
+
+5_zad
+ 
+*  
+* * 
+* * * 
+* * * * 
+
+6_zad
+ 
+*  
+* * 
+* * * 
+* * * * 
+* * * 
+* *  
+*
+
+7_zad
+ 
+	    *	
+	  * * *
+	* * * * *
+	  * * *
+	    *
+
+Budowa tablic wielowymiarowych:
+typ nazwa [][] to jest tablica 2 wymiarowa (x, y)
+typ nazwa [][][] to jest tablica 3 wymiarowa (x, y, z)
+typ nazwa [][][][] to jest tablica 4 wymiarowa (x, y, z, e)
